@@ -1,0 +1,14 @@
+
+Warning: PHP Startup: Unable to load dynamic library 'xml' (tried: D:\DeveloperTolls\XAMPP\php\ext\xml (Не найден указанный модуль), D:\DeveloperTolls\XAMPP\php\ext\php_xml.dll (Не найден указанный модуль)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'dom' (tried: D:\DeveloperTolls\XAMPP\php\ext\dom (Не найден указанный модуль), D:\DeveloperTolls\XAMPP\php\ext\php_dom.dll (Не найден указанный модуль)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'simplexml' (tried: D:\DeveloperTolls\XAMPP\php\ext\simplexml (Не найден указанный модуль), D:\DeveloperTolls\XAMPP\php\ext\php_simplexml.dll (Не найден указанный модуль)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'xmlreader' (tried: D:\DeveloperTolls\XAMPP\php\ext\xmlreader (Не найден указанный модуль), D:\DeveloperTolls\XAMPP\php\ext\php_xmlreader.dll (Не найден указанный модуль)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'xmlwriter' (tried: D:\DeveloperTolls\XAMPP\php\ext\xmlwriter (Не найден указанный модуль), D:\DeveloperTolls\XAMPP\php\ext\php_xmlwriter.dll (Не найден указанный модуль)) in Unknown on line 0
+Psy Shell v0.12.24 (PHP 8.2.12 — cli) by Justin Hileman
+New PHP manual is available (latest: 3.1.3). Update with `doc --update-manual`
+
+
